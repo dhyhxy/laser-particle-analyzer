@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:yaml.org,2002:com.unity3d.unity3d.QualitySettings
+--- !u!5 &1
+QualitySettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 5
+  m_QualityLevel: 2
+  names:
+  - Very Low
+  - Low
+  - Medium
+  - High
+  - Very High
+  - Ultra
+  budgets:
+  - serializedVersion: 2
+    m_TargetFrameRate: 60
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+    m_MaxQueuedFrames: 2
+    m_PixelLightCount: 0
+    m_AsyncUploadTimeSlice: 2
+    m_AsyncUploadBufferSize: 4
+    m_AlwaysIncludedShaders: []
+    m_PreloadedShaders: []
+    m_SpritesDefaultMaterial: {fileID: 0}
+    m_CustomRenderTexture: {fileID: 0}
+    m_TransparencySortMode: 0
+    m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+    m_DefaultRenderingPath: 1
+    m_DefaultMobileRenderingPath: 1
+    m_TierSettings: []
+    m_RenderPipeline: {fileID: 0}
+    m_MobileRenderPipeline: {fileID: 0}
+    m_TerrainQualityOverrides: 0
+  - serializedVersion: 2
+    m_TargetFrameRate: 60
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
+    m_MaxQueuedFrames: 2
+    m_PixelLightCount: 4
+    m_AsyncUploadTimeSlice: 2
+    m_AsyncUploadBufferSize: 4
+    m_AlwaysIncludedShaders: []
+    m_PreloadedShaders: []
+    m_SpritesDefaultMaterial: {fileID: 0}
+    m_CustomRenderTexture: {fileID: 0}
+    m_TransparencySortMode: 0
+    m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+    m_DefaultRenderingPath: 1
+    m_DefaultMobileRenderingPath: 1
+    m_TierSettings: []
+    m_RenderPipeline: {fileID: 0}
+    m_MobileRenderPipeline: {fileID: 0}
+    m_TerrainQualityOverrides: 0
+  - serializedVersion: 2
+    m_TargetFrameRate: 60
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
+    m_MaxQueuedFrames: 2
+    m_PixelLightCount: 8
+    m_AsyncUploadTimeSlice: 2
+    m_AsyncUploadBufferSize: 8
+    m_AlwaysIncludedShaders: []
+    m_PreloadedShaders: []
+    m_SpritesDefaultMaterial: {fileID: 0}
+    m_CustomRenderTexture: {fileID: 0}
+    m_TransparencySortMode: 0
+    m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+    m_DefaultRenderingPath: 1
+    m_DefaultMobileRenderingPath: 1
+    m_TierSettings: []
+    m_RenderPipeline: {fileID: 0}
+    m_MobileRenderPipeline: {fileID: 0}
+    m_TerrainQualityOverrides: 0
+  - serializedVersion: 2
+    m_TargetFrameRate: 60
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
+    m_MaxQueuedFrames: 2
+    m_PixelLightCount: 16
+    m_AsyncUploadTimeSlice: 2
+    m_AsyncUploadBufferSize: 16
+    m_AlwaysIncludedShaders: []
+    m_PreloadedShaders: []
+    m_SpritesDefaultMaterial: {fileID: 0}
+    m_CustomRenderTexture: {fileID: 0}
+    m_TransparencySortMode: 0
+    m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+    m_DefaultRenderingPath: 1
+    m_DefaultMobileRenderingPath: 1
+    m_TierSettings: []
+    m_RenderPipeline: {fileID: 0}
+    m_MobileRenderPipeline: {fileID: 0}
+    m_TerrainQualityOverrides: 0
+  - serializedVersion: 2
+    m_TargetFrameRate: 60
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
+    m_MaxQueuedFrames: 2
+    m_PixelLightCount: 32
+    m_AsyncUploadTimeSlice: 2
+    m_AsyncUploadBufferSize: 32
+    m_AlwaysIncludedShaders: []
+    m_PreloadedShaders: []
+    m_SpritesDefaultMaterial: {fileID: 0}
+    m_CustomRenderTexture: {fileID: 0}
+    m_TransparencySortMode: 0
+    m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+    m_DefaultRenderingPath: 1
+    m_DefaultMobileRenderingPath: 1
+    m_TierSettings: []
+    m_RenderPipeline: {fileID: 0}
+    m_MobileRenderPipeline: {fileID: 0}
+    m_TerrainQualityOverrides: 0
+  - serializedVersion: 2
+    m_TargetFrameRate: 60
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
+    m_MaxQueuedFrames: 2
+    m_PixelLightCount: 32
+    m_AsyncUploadTimeSlice: 2
+    m_AsyncUploadBufferSize: 32
+    m_AlwaysIncludedShaders: []
+    m_PreloadedShaders: []
+    m_SpritesDefaultMaterial: {fileID: 0}
+    m_CustomRenderTexture: {fileID: 0}
+    m_TransparencySortMode: 0
+    m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+    m_DefaultRenderingPath: 1
+    m_DefaultMobileRenderingPath: 1
+    m_TierSettings: []
+    m_RenderPipeline: {fileID: 0}
+    m_MobileRenderPipeline: {fileID: 0}
+    m_TerrainQualityOverrides: 0
+  m_PerPlatformDefaultQuality:
+    Android: 2
+    CloudRendering: 2
+    GameCoreScarlett: 2
+    GameCoreXboxOne: 2
+    Japan: 2
+    PS4: 2
+    PS5: 2
+    Stadia: 2
+    Standalone: 2
+    WebGL: 1
+    iPhone: 1
+    tvOS: 2
